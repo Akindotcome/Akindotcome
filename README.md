@@ -1,4 +1,4 @@
-<h2 align="left">Hello 👋! I am Samuel Akerele. A Cybersecurity Expert and Penetration Tester</h2>
+<h2 align="left">Hello 👋! I am Samuel Akerele. A Cybersecurity Analyst and Penetration Tester</h2>
 
 🔍 **About Me**  
 I build secure systems, penetration testing tools, and contribute to open-source cybersecurity projects.  
